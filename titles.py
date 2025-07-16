@@ -1,5 +1,5 @@
 import scrap_jobs
-#edit
+
 def get_titles():
     df = scrap_jobs.scrap()
     titles_lst = df['Title'].tolist()

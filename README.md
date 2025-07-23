@@ -6,9 +6,9 @@ Multiple categories: Jobs, Fruits, and Animals
 
 Difficulty levels:
 
-Medium (words with < 7 letters)
+Medium (words with < 5 letters)
 
-Hard (words with ≥ 7 letters)
+Hard (words with ≥ 5 letters)
 
 Clean and structured code using functions
 
